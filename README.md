@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Muhammad Rafay Siddiquie 👋
 
-<!--
-**rafaysiddiquie37/rafaysiddiquie37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Digital Marketing Professional transitioning into Data Analytics & Data Science
 
-Here are some ideas to get you started:
+📚 Currently pursuing MS in Business Analytics at Karachi School of Business and Leadership (KSBL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Tools:** Google Colab, Jupyter Notebook, Power BI, Excel, Google Analytics
+- **ML/AI:** Classification, Regression, Clustering, Generative AI, Chatbot Development
+- **Marketing:** SEO, SEM, PPC, Meta Ads, Google Ads, Email Marketing
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 **Customer Churn Prediction** — ML classification model using Logistic Regression & Random Forest
+- 📈 **Sales Forecasting Model** — Regression-based model to predict future sales trends
+- 💬 **AI Chatbot (In Progress)** — Generative AI chatbot with NLP-based intent recognition
+
+---
+
+## 📩 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafay-siddiquie-604305254/)
+- 📧 rafaysiddiqui37@gmail.com
