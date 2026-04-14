@@ -26,5 +26,5 @@
 
 ## 📩 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafay-siddiquie-604305254/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafay-siddiquie/)
 - 📧 rafaysiddiqui37@gmail.com
